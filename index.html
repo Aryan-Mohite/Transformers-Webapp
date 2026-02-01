@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Transformers Character App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Transformers Character App</h1>
+
+<div class="controls">
+  <input type="text" id="search" placeholder="Search character">
+  <select id="faction">
+    <option value="all">All Factions</option>
+    <option value="Autobot">Autobot</option>
+    <option value="Decepticon">Decepticon</option>
+  </select>
+  <select id="sort">
+    <option value="az">A–Z</option>
+    <option value="za">Z–A</option>
+  </select>
+</div>
+
+<div id="cards" class="cards"></div>
+
+<div class="pagination">
+  <button id="prev">Prev</button>
+  <span id="page"></span>
+  <button id="next">Next</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

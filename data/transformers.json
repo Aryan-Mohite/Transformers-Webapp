@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Optimus Prime",
+        "faction": "Autobot",
+        "altMode": "Freight Truck",
+        "role": "Supreme Commander",
+        "weapon": "Ion Blaster",
+        "description": "Leader of the Autobots who stands for freedom.",
+        "image": "images/optimus-prime.jpg"
+    },
+    {
+        "name": "Bumblebee",
+        "faction": "Autobot",
+        "altMode": "Sports Car",
+        "role": "Scout",
+        "weapon": "Plasma Cannons",
+        "description": "Small, fast and extremely loyal.",
+        "image": "images/bumblebee.jpg"
+    },
+    {
+        "name": "Ratchet",
+        "faction": "Autobot",
+        "altMode": "Ambulance",
+        "role": "Medic",
+        "weapon": "Repair Tools",
+        "description": "Chief medical officer of Autobots.",
+        "image": "images/ratchet.jpg"
+    },
+    {
+        "name": "Ironhide",
+        "faction": "Autobot",
+        "altMode": "Pickup Truck",
+        "role": "Weapons Specialist",
+        "weapon": "Cannons",
+        "description": "Heavy-duty frontline soldier.",
+        "image": "images/ironhide.jpg"
+    },
+    {
+        "name": "Jazz",
+        "faction": "Autobot",
+        "altMode": "Porsche",
+        "role": "Special Ops",
+        "weapon": "Photon Rifle",
+        "description": "Cool and tactical Autobot.",
+        "image": "images/jazz.jpg"
+    },
+    {
+        "name": "Wheeljack",
+        "faction": "Autobot",
+        "altMode": "Race Car",
+        "role": "Engineer",
+        "weapon": "Explosives",
+        "description": "Inventor and scientist.",
+        "image": "images/wheeljack.jpg"
+    },
+    {
+        "name": "Arcee",
+        "faction": "Autobot",
+        "altMode": "Motorcycle",
+        "role": "Warrior",
+        "weapon": "Energy Blades",
+        "description": "Agile Autobot fighter.",
+        "image": "images/arcee.jpg"
+    },
+    {
+        "name": "Hot Rod",
+        "faction": "Autobot",
+        "altMode": "Sports Car",
+        "role": "Warrior",
+        "weapon": "Laser Pistols",
+        "description": "Young and impulsive hero.",
+        "image": "images/hot-rod.jpg"
+    },
+    {
+        "name": "Grimlock",
+        "faction": "Autobot",
+        "altMode": "Tyrannosaurus Rex",
+        "role": "Dinobot Leader",
+        "weapon": "Energon Sword",
+        "description": "Powerful and fierce Dinobot.",
+        "image": "images/grimlock.jpg"
+    },
+    {
+        "name": "Drift",
+        "faction": "Autobot",
+        "altMode": "Sports Car",
+        "role": "Scout",
+        "weapon": "Plasma Blades",
+        "description": "Fast and agile Autobot.",
+        "image": "images/drift.jpg"
+    },
+    {
+        "name":"crosshairs",
+        "faction":"Autobot",    
+        "altMode":"Military Jeep",
+        "role":"Sharpshooter",
+        "weapon":"Sniper Rifle",
+        "description":"Expert marksman with a cool demeanor.",
+        "image": "images/crosshairs.jpg"
+    },
+    {
+        "name": "Soundwave",
+        "faction": "Decepticon",
+        "altMode": "Communications Vehicle",
+        "role": "Intelligence Officer",
+        "weapon": "Sonic Blaster",
+        "description": "Master of espionage.",
+        "image": "images/soundwave.jpg"
+    },
+    {
+        "name": "Megatron",
+        "faction": "Decepticon",
+        "altMode": "Cybertronian Jet",
+        "role": "Leader",
+        "weapon": "Fusion Cannon",
+        "description": "Ruthless Decepticon leader.",
+        "image": "images/megatron.jpg"
+    },
+    {
+        "name": "Starscream",
+        "faction": "Decepticon",
+        "altMode": "Fighter Jet",
+        "role": "Air Commander",
+        "weapon": "Null Rays",
+        "description": "Ambitious and treacherous.",
+        "image": "images/starscream.jpg"
+    },
+    {
+        "name": "Shockwave",
+        "faction": "Decepticon",
+        "altMode": "Artillery Cannon",
+        "role": "Scientist",
+        "weapon": "Particle Cannon",
+        "description": "Cold, logical tactician.",
+        "image": "images/shockwave.jpg"
+    },
+    {
+        "name": "Barricade",
+        "faction": "Decepticon",
+        "altMode": "Police Car",
+        "role": "Enforcer",
+        "weapon": "Machine Guns",
+        "description": "Hunter of Autobots.",
+        "image": "images/barricade.jpg"
+    },
+    {
+        "name": "Blackout",
+        "faction": "Decepticon",
+        "altMode": "Helicopter",
+        "role": "Heavy Assault",
+        "weapon": "Missiles",
+        "description": "Mass destruction specialist.",
+        "image": "images/blackout.jpg"
+    },
+    {
+        "name": "Devastator",
+        "faction": "Decepticon",
+        "altMode": "Construction Vehicles",
+        "role": "Combiner",
+        "weapon": "Mega Cannon",
+        "description": "Combined Decepticon monster.",
+        "image": "images/devastator.jpg"
+    },
+    {
+        "name": "Bonecrusher",
+        "faction": "Decepticon",
+        "altMode": "Bulldozer",
+        "role": "Demolition",
+        "weapon": "Claws",
+        "description": "Brutal frontline attacker.",
+        "image": "images/bonecrusher.jpg"
+    },
+    {
+        "name": "Hound",
+        "faction": "Autobot",
+        "altMode": "Military Jeep",
+        "role": "Tracker",
+        "weapon": "Sniper Rifle",
+        "description": "Recon specialist.",
+        "image": "images/hound.jpg"
+    }
+]
