@@ -1,4 +1,4 @@
-const API = "https://github.com/Aryan-Mohite/transformers-data/blob/main/transformers.json?raw=true";
+const API = "https://github.com/Aryan-Mohite/Transformers-Webapp/blob/main/data/transformers.json";
 
 let all = [], filtered = [];
 let page = 1;
@@ -72,3 +72,4 @@ prev.onclick = () => {
     render();
   }
 };
+
